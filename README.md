@@ -1,5 +1,5 @@
 # Machine-Learning-with-Python
 
-Classification \n
+Classification
 
 KNN | Decision Tree | SVM | Logistic
