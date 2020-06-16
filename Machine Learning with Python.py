@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# <a href="https://www.bigdatauniversity.com"><img src="https://ibm.box.com/shared/static/cw2c7r3o20w9zn8gkecaeyjhgw3xdgbj.png" width="400" align="center"></a>
-# 
-# <h1 align="center"><font size="5">Classification with Python</font></h1>
-
-# In this notebook we try to practice all the classification algorithms that we learned in this course.
-# 
 # We load a dataset using Pandas library, and apply the following algorithms, and find the best one for this specific dataset by accuracy evaluation methods.
 # 
 # Lets first load required libraries:
