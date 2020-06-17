@@ -1,4 +1,4 @@
-# Machine Learning with Python - Customer Loan Liquidity
+# Supervised Machine Learning with Python - Customer Loan Liquidity
 # - K Nearest Neighbor(KNN)
 # - Decision Tree
 # - Support Vector Machine
